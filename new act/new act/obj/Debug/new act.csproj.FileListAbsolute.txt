@@ -1,0 +1,11 @@
+C:\Users\oo144\Desktop\new act\new act\new act\bin\Debug\new act.exe.config
+C:\Users\oo144\Desktop\new act\new act\new act\bin\Debug\new act.exe
+C:\Users\oo144\Desktop\new act\new act\new act\bin\Debug\new act.pdb
+C:\Users\oo144\Desktop\new act\new act\new act\obj\Debug\new_act.Form1.resources
+C:\Users\oo144\Desktop\new act\new act\new act\obj\Debug\new_act.HomeControl.resources
+C:\Users\oo144\Desktop\new act\new act\new act\obj\Debug\new_act.Properties.Resources.resources
+C:\Users\oo144\Desktop\new act\new act\new act\obj\Debug\new act.csproj.GenerateResource.Cache
+C:\Users\oo144\Desktop\new act\new act\new act\obj\Debug\new act.exe
+C:\Users\oo144\Desktop\new act\new act\new act\obj\Debug\new act.pdb
+C:\Users\oo144\Desktop\new act\new act\new act\obj\Debug\new_act.LoginControl.resources
+C:\Users\oo144\Desktop\new act\new act\new act\obj\Debug\new_act.RegistrationControl.resources
